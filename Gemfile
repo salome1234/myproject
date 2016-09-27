@@ -6,6 +6,8 @@ gem 'sass-rails',   '5.0.2'
 
 #use bootstrap library for style
 gem 'bootstrap-sass', '3.3.1'
+#use font awesome library for icons
+gem 'font-awesome-sass', '4.2.0'
 gem 'uglifier',     '2.5.3'
 gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.3'
